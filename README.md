@@ -4,11 +4,11 @@
 
 ### Got an idea, looking to team up for a project? Get in touch!
 
-- 👨‍💻 Software Developer @ [Fiix](https://github.com/macmms/)
+- 👨‍💻 Software Developer @ [VTS](https://github.com/viewthespace/)
 - 🌱 Always on the lookout for exciting open source projects and initiatives
 - 😄 Committed to building software that works for everyone
 - 🎲 Avid [Pai Sho](https://skudpaisho.com/) player
 
 <p>
-  <samp>#java, #spring-boot, #axon, #nextjs, #angularjs</samp>
+  <samp>#java, #spring-boot, #axon, #nodejs, #angularjs</samp>
 </p>
