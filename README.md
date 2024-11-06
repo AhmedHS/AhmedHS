@@ -4,7 +4,7 @@
       <img src="https://github.com/user-attachments/assets/55de6a36-488c-47de-a2d0-d7cde1760014" alt="fire">
 </p>
 <p align="center">
-  currently ~~breaking~~ building with:
+  currently b̷r̷e̷a̷k̷i̷n̷g̷  building with:
   <br>
   <samp>#golang, #temporal, #react, #typescript, #spring-boot, #axon, #nodejs</samp>
 </p>
