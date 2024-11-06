@@ -1,14 +1,10 @@
-# Hello World 👋
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedhsoli/) [![Email Badge](https://img.shields.io/badge/ahmed@soliman.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed@soliman.ca)
-[![Replit Badge](https://img.shields.io/badge/Replit@AhmedHS-8B008B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMTU2IDExNTYiPjxkZWZzPjxzdHlsZT4uY2xzLTF7aXNvbGF0aW9uOmlzb2xhdGU7fS5jbHMtMntmaWxsOndoaXRlO30uY2xzLTN7ZmlsbDp3aGl0ZTt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPnJlcGxpdCBsb2dvPC90aXRsZT48ZyBpZD0iRXhwb25lbnQiIGNsYXNzPSJjbHMtMSI+PHBhdGggY2xhc3M9ImNscy0yIiBkPSJNMTAyNC41LDUzNC4wNWMxLjIzLDEzLjU4LDIuMDgsMjcuMjgsMi4wOCw0MS4xOWgwQzEwMjYuNTgsNTYxLjMzLDEwMjUuNzMsNTQ3LjY0LDEwMjQuNSw1MzQuMDVaIi8+PHBhdGggY2xhc3M9ImNscy0yIiBkPSJNMzU5LDUzMS42OFMyMzQuMjUsOTkxLjMyLDczNC4yNiw5OTUuMzJjMTU2Ljg4LTU4LjQsMjcyLjQ4LTIwMS41OCwyOTAtMzc0LjIsMS4yMS0xMS45NCwxLjU3LTI0LjEyLDEuODQtMzYuMzIuMDUtMy4yMS40OC02LjMzLjQ4LTkuNTYsMC0xMy45LS44NS0yNy42MS0yLjA4LTQxLjE5Qzg5Mi40LDEwNTQuMDgsMzA4LDg1MC4zOSwzNTksNTMxLjY4WiIvPjxwYXRoIGNsYXNzPSJjbHMtMiIgZD0iTTYxNy41NCwzNjEuMDdTMTUyLDIzMS4wNiwxNTkuMTYsNzM4LjY4QTQ0OS44Niw0NDkuODYsMCwwLDAsMjY3LjY1LDkwMC44NWMyLDEuODksNC4wNywzLjY4LDYuMDksNS41NGE0NTAuMTcsNDUwLjE3LDAsMCwwLDQyLjU0LDM0LjY3YzIuMzEsMS42NSw0LjQ4LDMuNDcsNi44LDUuMDhhNDQ2Ljc0LDQ0Ni43NCwwLDAsMCw0OS4xMSwyOS4xNmM0LjkzLDIuNTQsMTAsNC44NiwxNSw3LjIzYTQ0My45MSw0NDMuOTEsMCwwLDAsNDQuODUsMTguMmMzLjc1LDEuMjgsNy4zMywyLjg4LDExLjEzLDQuMDdBNDQ0LjY4LDQ0NC42OCwwLDAsMCw0OTksMTAxOGM1LjcxLDEsMTEuNDgsMS44NCwxNy4yNiwyLjY0YTQ1MCw0NTAsMCwwLDAsNTkuMTEsNC41OWMuNzYsMCwxLjQ5LjEyLDIuMjUuMTIsMTQuOTIsMCwyOS42NS0uOCw0NC4xOC0yLjIzQzk5LjQ2LDg5OC41NSwyOTgsMzE0LjQ3LDYxNy41NCwzNjEuMDdaIi8+PHBhdGggY2xhc3M9ImNscy0yIiBkPSJNNzk5LDYwMS44UzkwOS4xNCwxMzcuNDYsNDEzLjM2LDE1OC4yYy0xNjYuMjUsNjUuNjctMjgzLjk0LDIyNy40My0yODMuOTQsNDE3YTQ1MS4xLDQ1MS4xLDAsMCwwLDQuNjEsNjFDMjM4LjM3LDExMC44Niw4MzIuOCwyODEsNzk5LDYwMS44WiIvPjxwYXRoIGNsYXNzPSJjbHMtMiIgZD0iTTU2MC45NSw4MDEuNjJTMTAyNy4zLDg2Mi41LDk5OC4xMSw0MTkuMTFDOTM0LjY0LDI0OC40NCw3NzAuNzYsMTI2LjYyLDU3OCwxMjYuNjJhNDUwLjI0LDQ1MC4yNCwwLDAsMC04MS4zNSw3LjczQzEwMTYuMjksMTk4LjE0LDg4MS4yMyw4MDYuMTYsNTYwLjk1LDgwMS42MloiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik03MDcuNDYsNTc1LjI1QTEyNS42NSwxMjUuNjUsMCwxLDEsNTgxLjg1LDQ0OS42LDEyNS42NCwxMjUuNjQsMCwwLDEsNzA3LjQ2LDU3NS4yNVoiLz48L2c+PC9zdmc+&logoColor=white)](https://replit.com/@AhmedHS)
-
-### Got an idea, looking to team up for a project? Get in touch!
-
-- 👨‍💻 Senior Software Engineer @ [VTS](https://github.com/viewthespace/)
-- 🌱 On the lookout for exciting open source projects and initiatives
-- 🤝 Committed to building software that works for everyone
-- 🎲 Avid [Pai Sho](https://skudpaisho.com/) player
-
-<p>
-  <samp>#golang, #temporal, #java, #spring-boot, #axon, #nodejs</samp>
+<p align="center">
+</p>
+<p align="center">
+      <img src="https://github.com/user-attachments/assets/55de6a36-488c-47de-a2d0-d7cde1760014" alt="fire">
+</p>
+<p align="center">
+  currently ~~breaking~~ building with:
+  <br>
+  <samp>#golang, #temporal, #react, #typescript, #spring-boot, #axon, #nodejs</samp>
 </p>
