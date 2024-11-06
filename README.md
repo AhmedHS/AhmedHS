@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 <p align="center">
-      <img src="https://github.com/user-attachments/assets/55de6a36-488c-47de-a2d0-d7cde1760014" alt="fire">
+      <img src="https://raw.githubusercontent.com/AhmedHS/AhmedHS/refs/heads/main/fire.gif" alt="fire">
 </p>
 <p align="center">
   currently b̷r̷e̷a̷k̷i̷n̷g̷  building with:
